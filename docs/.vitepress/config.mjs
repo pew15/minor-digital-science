@@ -3,22 +3,19 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/minor-digital-science/',
-  title: "Minor Digital Science",
   description: "Information about the Minor Digital Science.",
   themeConfig: {
+    siteTitle: false,
+    logo: '/logo-uibk.90f7ae9bbfac.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
         text: 'Minor Digital Science',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Teaching', link: '/teaching' },
           { text: 'Minor Digital Science', link: '/minor-digital-science' },
           { text: 'Testimonials', link: '/testimonials' },
         ]
@@ -35,9 +32,5 @@ export default defineConfig({
       ]
     }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
   }
 })

@@ -1,98 +1,105 @@
-### What is the difference between **Computer Science** and **Digital Science**?
+# What is the difference between **Computer Science** and **Digital Science**?
 
-There are two kinds of differences between [Supplementary Program **Computer Science**](https://www.uibk.ac.at/studium/angebot/es-informatik/index.html.en) (SP-CS) and [Minor **Digital Science**](https://www.uibk.ac.at/en/disc/teaching/minor-digital-science/) (M-DS): related to the formal regulations and related to the content ([in German](https://www.uibk.ac.at/informatik/studium/vergleich-ewsi-und-edisc.html)). 
+There are two kinds of differences between [Supplementary Program **Computer Science**](https://www.uibk.ac.at/studium/angebot/es-informatik/index.html.en) (SP-CS) and [Minor **Digital Science**](https://www.uibk.ac.at/en/disc/teaching/minor-digital-science/) (M-DS): related to the formal regulations and related to the content ([in German](https://www.uibk.ac.at/informatik/studium/vergleich-ewsi-und-edisc.html)).
 
-  
 
-**supplementary program** **(SP)**
-
-**properties**
-
-**minor**
-
-[**Computer Science**](https://www.uibk.ac.at/informatik/studium/erweiterungsstudium.html.en) **(CS)**
-
-[**Digital Science**](https://www.uibk.ac.at/en/disc/teaching/minor-digital-science/) 
-
-**FORMAL**
-
-60 ECTS credits / 9 modules
-
-**credits  / courses**
-
-30 ECTS credits / 6 courses 
-
-required
-
-**enrollment**
-
-not required, registration to individual courses
-
-students of admitted study programs
-
-**target group**
-
-students of all study programs
-
-after a regular study program (bachelor's or master's program) or in parallel after having collected at least 30 ECTS credits in a regular study program
-
-**integration  
-options**
-
-as part of a regular study program (bachelor's or master's program), which must be active for the whole duration of the minor
-
-German
-
-**language  
-of instruction**
-
-English
-
-**CONTENT**
-
-computer science foundations
-
-**main focus**
-
-programmatic data analysis
-
-32.5 ECTS credits in programming and software development including software architecture and software engineering
-
-3 programming paradigms
-
-*   procedural/imperative, e.g. C
-*   object-oriented, e.g. Java
-*   functional, e.g. Haskell
-
-**programming**
-
-5 ECTS credits in an introduction to programming
-
-one programming language commonly used in
-
-data science, e.g. Python or R 
-
-15 ECTS credits in data-related modules: algorithms and data structures, database systems 
-
-**data**
-
-20 ECTS credits in data-focused modules: data management, data analysis courses and project
-
-7.5 ECTS credits elective courses from the bachelor’s program computer science
-
-**elective  
-courses**
-
-10 ECTS credits from a selection of courses in data analysis and aspects of digitalisation modules to tailor minor to the field of interest, e.g. legal, ethical or business aspects
-
-Computer Scientists / Department of Computer Science
-
-**teaching staff**
-
-Interdisciplinary / Digital Science Center
-
-The SP is a subset of basic courses of the bachelor’s program in computer science. It is possible to transfer eligible credits from and to this program.
-
-**crediting**
-
-depending on the curricula: as minor or as elective modules, especially as interdisciplinary and generic skills
+<table style="width:100%"><tbody><tr style="border-top:1pt solid black;border-bottom:1pt solid black"><td style="width:425px">
+<p><strong>supplementary program</strong><strong> (SP)</strong></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>properties</strong></p>
+</td><td style="width:455px">
+<p><strong>minor</strong></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><a class="b_link_extern" href="https://www.uibk.ac.at/informatik/studium/erweiterungsstudium.html.en" target="_blank" rel="noopener noreferrer"><strong>Computer Science</strong></a><strong> (CS)</strong></p>
+</td><td style="width:158px;text-align:center">
+<p><span style="font-weight:400">&nbsp;</span></p>
+</td><td style="width:455px">
+<p><a class="b_link_extern" href="https://www.uibk.ac.at/en/disc/teaching/minor-digital-science/" target="_blank" rel="noopener noreferrer"><strong>Digital Science</strong></a><strong>&nbsp;</strong></p>
+</td></tr><tr style="border-bottom:1pt solid black;background:gainsboro"><td style="width:425px">
+<p><span style="font-weight:400">&nbsp;</span></p>
+</td><td style="width:158px;text-align:center">
+<p>&nbsp;</p>
+<p><strong>FORMAL</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">&nbsp;</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">60 ECTS credits / 9 modules</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>credits&nbsp; / courses</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">30 ECTS credits / 6 courses&nbsp;</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">required</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>enrollment</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">not required, registration to individual courses</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">students of admitted study programs</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>target group</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">students of all study programs</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">after a regular study program (bachelor's or master's program) or in parallel after having collected at least 30 ECTS credits in a regular study program</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>integration <br>options</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">as part of a regular study program (bachelor's or master's program), which must be active for the whole duration of the minor</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">German</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>language <br>of instruction</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">English</span></p>
+</td></tr><tr style="border-bottom:1pt solid black;background:gainsboro"><td style="width:425px">
+<p><span style="font-weight:400">&nbsp;</span></p>
+</td><td style="width:158px;text-align:center">
+<p>&nbsp;</p>
+<p><strong>CONTENT</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">&nbsp;</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">computer science foundations</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>main focus</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">programmatic data analysis</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">32.5 ECTS credits in programming and software development including software architecture and software engineering</span></p>
+<p><span style="font-weight:400">&nbsp;</span></p>
+<p><span style="font-weight:400">3 programming paradigms</span></p>
+<ul><li style="font-weight:400"><span style="font-weight:400">procedural/imperative, e.g. C</span></li><li style="font-weight:400"><span style="font-weight:400">object-oriented, e.g. Java</span></li><li style="font-weight:400"><span style="font-weight:400">functional, e.g. Haskell</span></li></ul>
+</td><td style="width:158px;text-align:center">
+<p><strong>programming</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">5 ECTS credits in an introduction to programming</span></p>
+<p><span style="font-weight:400">&nbsp;</span></p>
+<p><span style="font-weight:400">&nbsp;</span></p>
+<p><span style="font-weight:400">one programming language commonly used in</span></p>
+<p><span style="font-weight:400">data science, e.g. Python or R&nbsp;</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">15 ECTS credits in data-related modules: algorithms and data structures, database systems&nbsp;</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>data</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">20 ECTS credits in data-focused modules: data management, data analysis courses and project</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">7.5 ECTS credits elective courses from the bachelor’s program computer science</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>elective<br>courses</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">10 ECTS credits from a selection of courses in data analysis and aspects of digitalisation modules to tailor minor to the field of interest, e.g. legal, ethical or business aspects</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">Computer Scientists / Department of Computer Science</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>teaching staff</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">Interdisciplinary / Digital Science Center</span></p>
+</td></tr><tr style="border-bottom:1pt solid black"><td style="width:425px">
+<p><span style="font-weight:400">The SP is a subset of basic courses of the bachelor’s program in computer science. It is possible to transfer eligible credits from and to this program.</span></p>
+</td><td style="width:158px;text-align:center">
+<p><strong>crediting</strong></p>
+</td><td style="width:455px">
+<p><span style="font-weight:400">depending on the curricula: as minor or as elective modules, especially as interdisciplinary and generic skills</span></p>
+</td></tr></tbody></table>
