@@ -24,7 +24,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'FAQ',
+        text: 'Information',
         items: [
         { text: 'FAQ Regulation', link: '/faq-regulations' },
         { text: 'FAQ Content', link: '/faq-content' },
