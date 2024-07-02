@@ -1,7 +1,7 @@
 Study programmes enabling taking minors
 =======================================
 
-Check your study programme description at the [official university webpage](file:///home/joanna/usr/work/uibk/DiSc/org/coordination/calculus/data/programmes/study_programmes.html.en) (191) to find out if your program enables taking a minor. There should be a sentence similar to the example ones.  
+Check your study programme description at the [official university webpage]() (191) to find out if your program enables taking a minor. There should be a sentence similar to the example ones.  
   
 In **German**, the sentence may refer to _Ergaenzung_ or _Wahlpaket_.  
 

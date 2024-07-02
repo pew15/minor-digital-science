@@ -18,6 +18,7 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: 'Teaching', link: '/teaching' },
           { text: 'Minor Digital Science', link: '/minor-digital-science' },
           { text: 'Testimonials', link: '/testimonials' },
         ]
@@ -25,11 +26,12 @@ export default defineConfig({
       {
         text: 'FAQ',
         items: [
-        { text: 'faq-regulation', link: '/faq-regulations' },
-        { text: 'faq-content', link: '/faq-content' },
-        { text: 'faq-comparsion', link: '/faq-comparsion' },
-        { text: 'confirmation', link: '/confirmation' },
-        { text: 'minors-in-list', link: '/minors-in-list' },
+        { text: 'FAQ Regulation', link: '/faq-regulations' },
+        { text: 'FAQ Content', link: '/faq-content' },
+        { text: 'FAQ Comparsion', link: '/faq-comparsion' },
+        { text: 'Confirmation', link: '/confirmation' },
+        { text: 'Minors In List', link: '/minors-in-list' },
+        { text: 'Suggested Order', link: '/suggested-order' },
       ]
     }
     ],

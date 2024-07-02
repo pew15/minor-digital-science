@@ -3,7 +3,7 @@ Testimonials
 
 **What (former) students say about our minor:**
 
-<img src=".vitepress/assets/bild_dominik-scherer.jpg__662x882_q85_crop_subject_location.webp" alt="drawing" width="200"/>
+<img src="./assets/bild_dominik-scherer.jpg__662x882_q85_crop_subject_location.webp" alt="drawing" width="200"/>
 
 Dominik Scherer  
 Applied Economics
@@ -35,7 +35,7 @@ It already did. I started a trainee program at Deutsche Bahn. They were specific
 <hr>
 <br>
 
-<img src=".vitepress/assets/img_0663.jpeg__662x882_crop_subject_location-735,980_subsam.webp" alt="drawing" width="200"/>
+<img src="./assets/img_0663.jpeg__662x882_crop_subject_location-735,980_subsam.webp" alt="drawing" width="200"/>
 
 Marina Eckert  
 Comparative Literature (UIBK), Sustainable Regional and Destination Development (UMIT Masters)
@@ -88,7 +88,7 @@ Do you believe that your future career will benefit from the minor?
 
 I know it, because I got my current job due to the fact that I have these special Digital Science skills. I closely work together with programmers and the knowledge I acquired in the minor helps me carry out my duties and communicate with the team!
 
-![Porträt von Jonas Dreher mit Bestätigung](Testimonials%20%E2%80%93%20Universita%CC%88t%20Innsbruck_files/aw5a9965christian_flatz.jpg__576x864_q85_crop_subject_locati.jpg)[](#uibk-copyright-2)
+![Porträt von Jonas Dreher mit Bestätigung]()
 
 Benny Greif  
 Psychology
@@ -111,7 +111,7 @@ Do you believe that your future career will benefit from the minor?
 
 Yes, in two different ways. On the one hand, statistics, data and programming skills are in high demand in almost any industry. If you are head to head with another applicant for a job, these skills may be the reason why you are selected. On the other hand, the minor allowed me to learn how to approach completely new areas of research and how to deal with new topics and lines of thinking. This has instilled confidence in me for my job search.
 
-![Benny Greif](Testimonials%20%E2%80%93%20Universita%CC%88t%20Innsbruck_files/aw5a9967christian_flatz.jpg__576x864_q85_crop_subject_locati.jpg)[](#uibk-copyright-3)
+![Benny Greif]()
 
 Benjamin Reimeir  
 Sport Science
@@ -134,7 +134,7 @@ Do you believe that your future career will benefit from the minor?
 
 In the past couple of years, sensors and data have played an ever-increasing role in sport science. This is true for almost all areas, from physiology to biomechanics. In the future, researchers who do not have a firm grasp of data analysis will, in all likelihood, no longer contribute anything new to the discipline. I now work in a research group for prototype development and evaluation of exoskeletons, which is at the intersection of sport science and mechatronics. Analyzing measurement data is an essential part of the job.
 
-![Benjamin Reimeir](Testimonials%20%E2%80%93%20Universita%CC%88t%20Innsbruck_files/aw5a9964christian_flatz.jpg__576x864_q85_crop_subject_locati.jpg)[](#uibk-copyright-4)
+![Benjamin Reimeir]()
 
 Florian Dobler  
 Sport Science
@@ -157,7 +157,7 @@ Do you believe that your future career will benefit from the minor?
 
 Yes, I am convinced it will. I was already approached by a couple of people during my studies who wanted to solve problems at the intersection of sport science and digitalization. Being able to manage and analyze data was also a required skill for the job I got right after completing my studies.
 
-![Florian Dobler hält die Bestätigung in den Händen](Testimonials%20%E2%80%93%20Universita%CC%88t%20Innsbruck_files/dobler_zertifikat.jpeg__576x768_crop_subject_location-315,4.jpeg)[](#uibk-copyright-5)
+![Florian Dobler hält die Bestätigung in den Händen]()
 
 German original of the interview was taken from Weekend-Magazin (issue 12, Oct 2020)
 

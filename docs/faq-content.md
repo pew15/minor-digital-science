@@ -1,25 +1,24 @@
-**Frequently Asked Questions - Modules and Courses**
-====================================================
+# Frequently Asked Questions - Modules and Courses
 
-**Here are the questions reappearing in students' emails or the information events.** 
+Here are the questions reappearing in students' emails or the information events. 
 
-## **What **skills and background** are required for the courses?**
+## What **skills and background** are required for the courses?**
 
 **All courses are designed for **beginners****, so there are only minimal requirements. 
 
 *   **You should have **general computer skills** in using an operating system: basic understanding of a file system (creating/deleting/renaming files and directories), installing programs and learning how to use them.** 
 *   **For programming courses (M1), **basic mathematical skills** are helpful, if you are unsure about your skills you may take a self-test and decide if you want to take an additional course on _Computer Programming Prerequisites_** (198812)**.** 
-*   **For advanced modules (M2, M3, M5, see [suggested order](javascript:parent.gotonode(99948063039549))), you can find in their descriptions, what skills, background or **prerequisite** courses are expected. In case of questions related to your particular case, you can ask either the DiSC teaching coordinator or teachers of courses you are interested in.** 
+*   **For advanced modules (M2, M3, M5, see [suggested order](), you can find in their descriptions, what skills, background or **prerequisite** courses are expected. In case of questions related to your particular case, you can ask either the DiSC teaching coordinator or teachers of courses you are interested in.** 
 
 ### How many ****modules/courses** do I need to take?**
 
-**You need to take **[5 modules, and 6 courses](https://www.uibk.ac.at/disc/teaching/digital-science/)** in the [recommended order](javascript:parent.gotonode(99948063039549)). In general, a module consists of one course, the exception is Data Analysis with two courses.** 
+**You need to take **[5 modules, and 6 courses](https://www.uibk.ac.at/disc/teaching/digital-science/)** in the [recommended order](./suggested-order.md). In general, a module consists of one course, the exception is Data Analysis with two courses.** 
 
-**To address the different interests of students, many courses are offered with [alternative options](javascript:parent.gotonode(99809871081751)). They are meant as exclusive alternatives, where only one course is to be completed. To follow your interest, y****ou can take more alternative courses, but keep in mind that only one will count to the required 30 ECTS credits. Moreover, in the case of multiple bookings for the same module (current and past), your priority in the acceptance procedure will be lower than for students who are taking the module for the first time.** 
+**To address the different interests of students, many courses are offered with [alternative options](). They are meant as exclusive alternatives, where only one course is to be completed. To follow your interest, y****ou can take more alternative courses, but keep in mind that only one will count to the required 30 ECTS credits. Moreover, in the case of multiple bookings for the same module (current and past), your priority in the acceptance procedure will be lower than for students who are taking the module for the first time.** 
 
-### **Which **acceptance rules**** are used**?**
+## **Which **acceptance rules**** are used**?**
 
-**There is [no guarantee to get a place](javascript:parent.gotonode(99964694571669)) in our courses. Places are filled up from highest to lowest priority groups (see below).** In the case of not enough places for a particular group, the randomized assignment is applied within it. Students from all other groups with lower priority will not be assigned to the course. There are the following groups.
+**There is [no guarantee to get a place]()) in our courses. Places are filled up from highest to lowest priority groups (see below).** In the case of not enough places for a particular group, the randomized assignment is applied within it. Students from all other groups with lower priority will not be assigned to the course. There are the following groups.
 
 1.  High priority: active students of Minor Digital Science. It means students who **completed one or more of our courses**. If needed subgroups are introduced based on the number of completed courses. This rule is used to foster the completion of the whole minor.  
     If there are prerequisite courses for a given course, students who complete them will have the highest priority. This rule is used to have a better learning effect.
@@ -29,7 +28,7 @@
 
 **Special cases:**
 
-*   **Students from **CS programs** [will not get credits](javascript:parent.gotonode(99964694571669)) for courses in modules 1-2 nor in the _Computer Programming Prerequisite_ course, therefore, they will be not accepted in these modules/courses. For other modules/courses, the general rules apply.**
+*   **Students from **CS programs** [will not get credits]() for courses in modules 1-2 nor in the _Computer Programming Prerequisite_ course, therefore, they will be not accepted in these modules/courses. For other modules/courses, the general rules apply.**
 *   **Additionally, in the case of synergetically offered courses, there is a contingent for students from the minor and the originating study programme. For example, _Digital Business_ is offered with the minor and programs from the Faculty of Business and Management. In this course, the places are split 50:50.** 
 *   **For prioritisation, all our courses completed in any of your study programs will be taken into account. You do not need to inform us **if you changed your study program**, e.g. from BSc to MSc.** 
 
@@ -64,4 +63,4 @@ It was not foreseen to take **both programming courses**, it means if you take b
 
 ### What is the difference between **Computer Science** and **Digital Science**?
 
-Please go to [the comparison table](https://lms.uibk.ac.at/url/RepositoryEntry/4509761609/CourseNode/109525612296759).
+Please go to [the comparison table]().

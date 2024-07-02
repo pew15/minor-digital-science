@@ -1,5 +1,4 @@
 # Frequently Asked Questions - Formal Regulations
-===================================================
 
 We answered the following questions to the best of our knowledge and the current state of legal regulations.
 
@@ -24,7 +23,7 @@ In general, yes. If you can study it within your bachelor or master programme an
 
 This information can be found in the recent/consolidated formal description of your study programme (**C****_urriculum_**), where the possibility of completing a minor (_Wahlpacket_) within the programme should be explicitly stated. For example, [Bachelor's Programme Management and Economics](https://www.uibk.ac.at/studium/angebot/ba-wirtschaftswissenschaften/index.html.de) ([5+1](https://www.uibk.ac.at/studium/wirtschaft/bachelor-diplom/wirtschaftswissenschaften/5-1-wirtschaft-plus.html.en)) and several [master programmes at the Faculty of Language, Literature and Culture](https://www.uibk.ac.at/fakultaeten/philologisch_kulturwissenschaftliche/studium/masterstudien.html.en) incorporate minors.
 
-We try to keep track of [majors allowing minors](/auth/RepositoryEntry/4509761609/CourseNode/102325838460997). However, if it is not clear for your study programme, check your official curricula or ask your (associate) **study deans** who may provide information about future integration plans.
+We try to keep track of [majors allowing minors](./minors-in-list). However, if it is not clear for your study programme, check your official curricula or ask your (associate) **study deans** who may provide information about future integration plans.
 
 ## Do I need to register for a minor at the **inscription office?**
 
@@ -32,13 +31,13 @@ We try to keep track of [majors allowing minors](/auth/RepositoryEntry/450976160
 
 ## Do I have a guaranteed **place** in a course?  
 
-For optional courses, there is **no** such guarantee. We plan several parallel groups for generic courses and hope to have enough vacancies for all interested students. In the case of overbooked courses, we will conduct a [prioritised randomisation acceptance procedure]().
+For optional courses, there is **no** such guarantee. We plan several parallel groups for generic courses and hope to have enough vacancies for all interested students. In the case of overbooked courses, we will conduct a [prioritised randomisation acceptance procedure](./faq-content.html#which-acceptance-rules-are-used).
 
 ## Do I need to complete all courses in the bundle **before finishing my major**?
 
 **Yes**, as minors (_Wahlpacketen_) can only be attended and completed within a study programme. Once you finished your programme, you can not attend/complete any courses of a minor anymore. (Unless you were enrolled in several programmes and only finished one of them.)
 
-As a reasonable time to complete our minor is [3 semesters](javascript:parent.gotonode(99948063039549)), it is important to **start as early as possible**. It is especially crucial for MSc students. 
+As a reasonable time to complete our minor is [3 semesters](), it is important to **start as early as possible**. It is especially crucial for MSc students. 
 
 ## Can I get a **confirmation of completion** of the minor?
 
@@ -48,7 +47,7 @@ As a reasonable time to complete our minor is [3 semesters](javascript:parent.g
 *   Regardless of the way how you completed our minor, it is also possible to receive a separate **document confirming completion of our minor**.
 *   You can also generate a **subset of academic records** with our courses and your grades.
 
-The details are described on a [dedicated](javascript:parent.gotonode(104532324374779)) page.
+The details are described on a [dedicated](./confirmation.html) page.
 
 ## Can I take courses from the minor as a **PhD student?**
 
